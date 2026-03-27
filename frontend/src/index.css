@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@theme {
+  --color-duo-green: #58cc02;
+  --color-duo-blue: #1cb0f6;
+  --color-duo-orange: #ff9600;
+}
