@@ -1,6 +1,6 @@
-# 🌿 GreenQuest
+# 🌿 GreenTrace
 
-GreenQuest is a gamified platform that helps users track and reduce their carbon footprint through daily activities and challenges.
+GreenTrace is a gamified platform that helps users track and reduce their carbon footprint through daily activities and challenges.
 
 ---
 
